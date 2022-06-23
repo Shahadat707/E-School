@@ -14,6 +14,11 @@ header {
     color: #000
 }
 
+.navbar-toggler:focus{
+    box-shadow: none;
+    color: black;
+    outline: none;
+}
 .signup {
     background-color: #21b573;
     padding: 5px 20px;
