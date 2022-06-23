@@ -24,7 +24,8 @@ header {
 }
 .signup:hover{
     color: white;
-    background: #098a50;}
+    background: #098a50;
+}
 
 .banner {
     background-color: honeydew;
@@ -68,6 +69,7 @@ header {
 .btn-custom:hover {
     background: #098a50;
     color: white;
+    border: transparent;
 }
 
 .featured {
@@ -111,26 +113,17 @@ header {
 }
 
 .online_courses {
-
     padding: 24px 0 50px;
-
     background: #e5e5e5;
 }
 
 .online_courses h1 {
-
     padding: 50px 0;
-
     font-family: 'Poppins';
-
     font-style: normal;
-
     font-weight: 700;
-
     font-size: 36px;
-
     line-height: 54px;
-
     color: #413960;
 }
 
@@ -140,9 +133,6 @@ header {
     border-radius: 18px;
     padding: 20px 20px 10px;
 }
-
-.Gallery img {}
-
 .Gallery h1 {
     font-family: 'Poppins';
     font-style: normal;
@@ -222,13 +212,11 @@ header {
     font-size: 16px;
     line-height: 30px;
     color: #000;
-    padding: 25px 0;
+    padding: 23px 0;
 }
 
 footer {
-
     background: #282531;
-
     padding: 25px 0 0;
 }
 
@@ -242,24 +230,14 @@ footer p {
 }
 
 .footer ul {
-
     text-decoration: none;
 }
-
-footer ul li {}
-
 footer ul li a {
-
     text-decoration: none;
-
     color: white;
-
     font-family: 'Poppins';
-
     font-style: normal;
-
     font-size: 16px;
-
     line-height: 30px;
 }
 
@@ -269,16 +247,12 @@ footer ul li:first-child {
 }
 
 .copywrite {
-
     padding: 30px 0 0;
-
     text-align: center;
-
     color: #CDCDCD;
 
 }
 
 .copywrite p {
-
     font-size: 15px;
 }
